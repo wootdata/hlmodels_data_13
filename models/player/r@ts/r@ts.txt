@@ -1,0 +1,35 @@
+<-- Theis model was created by Ixnay --  Ixnay@giga4u.de --- www.matze.privat.ms -->
+
+
+Game:		Half-Life Counterstrike Multiplayer
+Name: 		R@TS CLAN MODEL
+Author:		Matthias 'IXNAY' Wilke
+E-Mail:		Ixnay@giga4u.de
+Homepage:	www.matze.privat.ms
+Date:		20.10.1999
+
+
+about it:
+---------
+This is a RAT for the R@TS CLAN, [R@TS]M.I.B. asked me to make a r@t and so I maked a stupid
+smelling rotten animal.
+
+
+Installation:
+-------------
+Just unzip this zip file into your Half-Life\valve\models\player\r@ts directory and run the game.
+
+
+Copyright:
+----------
+You can burn this files on CD or copy them how much as you like to. But you have to include this
+textfile and the www.matze.privat.ms URL.
+
+
+MAIL ME & VISIT MY HOMEPAGE !!!
+
+
+| \  / |  |  /\  \   /
+|  \/  |\ | |  |  \_/
+|  /\  | \| |--|   |
+| /  \ |  | |  |   |
