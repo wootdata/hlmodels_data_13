@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 24,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 24,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 24,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 24,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}
@@ -25,18 +20,38 @@
 		{
 			"models": [
 				{
-					"name": "engineer_reference_2",
-					"polys": 495,
-					"verts": 256
+					"name": "HEV_male_torso_reference",
+					"polys": 2727,
+					"verts": 1387
 				}
 			],
 			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "HEV_male_legs_reference",
+					"polys": 1276,
+					"verts": 650
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "HEV_helmet_head_reference",
+					"polys": 379,
+					"verts": 198
+				}
+			],
+			"name": "head"
 		}
 	],
 	"colorable": true,
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 2,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -44,7 +59,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 3,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -52,7 +67,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 4,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -60,7 +75,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 5,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -68,7 +83,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098021180,
+	"date": 1298828144,
 	"events": [
 		{
 			"event": 2001,
@@ -123,134 +138,64 @@
 			"event": 5011,
 			"frame": 0,
 			"options": "21",
-			"sequence": 30,
+			"sequence": 34,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
 			"options": "21",
-			"sequence": 32,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 0,
-			"options": "51",
-			"sequence": 34,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 0,
-			"options": "51",
 			"sequence": 36,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "21",
+			"options": "31",
 			"sequence": 38,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "21",
+			"options": "31",
 			"sequence": 40,
 			"type": 0
 		}, 
 		{
-			"event": 5001,
+			"event": 5021,
 			"frame": 0,
-			"options": "30",
+			"options": "51",
 			"sequence": 42,
 			"type": 0
 		}, 
 		{
-			"event": 5001,
+			"event": 5021,
 			"frame": 0,
-			"options": "30",
+			"options": "51",
 			"sequence": 44,
 			"type": 0
 		}, 
 		{
-			"event": 5021,
+			"event": 5001,
 			"frame": 0,
-			"options": "11",
-			"sequence": 54,
+			"options": "40",
+			"sequence": 50,
 			"type": 0
 		}, 
 		{
-			"event": 5021,
+			"event": 5001,
 			"frame": 0,
-			"options": "11",
-			"sequence": 56,
-			"type": 0
-		}, 
-		{
-			"event": 5021,
-			"frame": 0,
-			"options": "21",
-			"sequence": 58,
-			"type": 0
-		}, 
-		{
-			"event": 5021,
-			"frame": 0,
-			"options": "21",
-			"sequence": 60,
-			"type": 0
-		}, 
-		{
-			"event": 5031,
-			"frame": 0,
-			"options": "33",
-			"sequence": 70,
-			"type": 0
-		}, 
-		{
-			"event": 5031,
-			"frame": 3,
-			"options": "32",
-			"sequence": 70,
-			"type": 0
-		}, 
-		{
-			"event": 5031,
-			"frame": 8,
-			"options": "31",
-			"sequence": 70,
-			"type": 0
-		}, 
-		{
-			"event": 5031,
-			"frame": 0,
-			"options": "33",
-			"sequence": 72,
-			"type": 0
-		}, 
-		{
-			"event": 5031,
-			"frame": 4,
-			"options": "32",
-			"sequence": 72,
-			"type": 0
-		}, 
-		{
-			"event": 5031,
-			"frame": 8,
-			"options": "31",
-			"sequence": 72,
+			"options": "40",
+			"sequence": 52,
 			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "5f0de28e0b3df7119c84a2d9aa831ac4",
+	"md5": "2a25727f24330a32eab6d4f9f3a2b4e3",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "tfc/models/player/engineer/engineer.mdl",
+	"name": "dm_helmet.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -403,6 +348,26 @@
 		{
 			"fps": 12.000000,
 			"frames": 31,
+			"name": "ref_aim_trip"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 13,
+			"name": "ref_shoot_trip"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "crouch_aim_trip"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 13,
+			"name": "crouch_shoot_trip"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
 			"name": "ref_aim_onehanded"
 		}, 
 		{
@@ -419,6 +384,26 @@
 			"fps": 16.000000,
 			"frames": 8,
 			"name": "crouch_shoot_onehanded"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_aim_python"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 8,
+			"name": "ref_shoot_python"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "crouch_aim_python"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 8,
+			"name": "crouch_shoot_python"
 		}, 
 		{
 			"fps": 12.000000,
@@ -446,7 +431,7 @@
 			"name": "ref_aim_gauss"
 		}, 
 		{
-			"fps": 16.000000,
+			"fps": 15.000000,
 			"frames": 8,
 			"name": "ref_shoot_gauss"
 		}, 
@@ -456,7 +441,7 @@
 			"name": "crouch_aim_gauss"
 		}, 
 		{
-			"fps": 16.000000,
+			"fps": 15.000000,
 			"frames": 8,
 			"name": "crouch_shoot_gauss"
 		}, 
@@ -523,102 +508,62 @@
 		{
 			"fps": 12.000000,
 			"frames": 31,
-			"name": "ref_aim_sniper"
+			"name": "ref_aim_squeak"
 		}, 
 		{
-			"fps": 18.000000,
-			"frames": 8,
-			"name": "ref_shoot_sniper"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 31,
-			"name": "crouch_aim_sniper"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 8,
-			"name": "crouch_shoot_sniper"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 31,
-			"name": "ref_aim_autosniper"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 8,
-			"name": "ref_shoot_autosniper"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 31,
-			"name": "crouch_aim_autosniper"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 8,
-			"name": "crouch_shoot_autosniper"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 31,
-			"name": "ref_aim_medkit"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 31,
-			"name": "ref_shoot_medkit"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 31,
-			"name": "crouch_aim_medkit"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 31,
-			"name": "crouch_shoot_medkit"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 16,
-			"name": "ref_aim_knife"
-		}, 
-		{
-			"fps": 30.000000,
+			"fps": 14.000000,
 			"frames": 13,
-			"name": "ref_shoot_knife"
+			"name": "ref_shoot_squeak"
 		}, 
 		{
-			"fps": 10.000000,
-			"frames": 16,
-			"name": "crouch_aim_knife"
+			"fps": 12.000000,
+			"frames": 30,
+			"name": "crouch_aim_squeak"
 		}, 
 		{
-			"fps": 30.000000,
+			"fps": 14.000000,
 			"frames": 13,
-			"name": "crouch_shoot_knife"
+			"name": "crouch_shoot_squeak"
 		}, 
 		{
-			"fps": 10.000000,
+			"fps": 12.000000,
 			"frames": 31,
-			"name": "ref_aim_AC"
+			"name": "ref_aim_hive"
 		}, 
 		{
-			"fps": 30.000000,
-			"frames": 11,
-			"name": "ref_shoot_AC"
+			"fps": 15.000000,
+			"frames": 4,
+			"name": "ref_shoot_hive"
 		}, 
 		{
-			"fps": 10.000000,
+			"fps": 12.000000,
 			"frames": 31,
-			"name": "crouch_aim_AC"
+			"name": "crouch_aim_hive"
 		}, 
 		{
-			"fps": 30.000000,
-			"frames": 11,
-			"name": "crouch_shoot_AC"
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "crouch_shoot_hive"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_aim_bow"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "ref_shoot_bow"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "crouch_aim_bow"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "crouch_shoot_bow"
 		}, 
 		{
 			"fps": 10.000000,
@@ -641,7 +586,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 306612,
+	"size": 823448,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -652,16 +597,116 @@
 			"parent": 0
 		}, 
 		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 25
+		}, 
+		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 2
+			"parent": 27
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 3
+			"parent": 28
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -669,91 +714,15 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 30
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
+			"parent": 31
 		}, 
 		{
 			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 26
+			"parent": 6
 		}
 	],
 	"skins": 1,
@@ -761,9 +730,69 @@
 	"textures": [
 		{
 			"flags": 0,
+			"height": 348,
+			"name": "Remap3_001_249_255.bmp",
+			"width": 404
+		}, 
+		{
+			"flags": 0,
 			"height": 256,
-			"name": "DM_Base.bmp",
+			"name": "Remap1_001_249_255.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 2,
+			"height": 64,
+			"name": "RemapE_000_000_255.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "RemapD_001_249_255.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "rubbergloveCHROME.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Remap2_001_249_255.bmp",
 			"width": 256
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "Chrome_50Gry1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "HEV_neck.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "visor_chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "RemapC_001_249_255.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "HEV_helmet_top.bmp",
+			"width": 180
 		}
 	],
 	"version": 10
