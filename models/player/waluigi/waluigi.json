@@ -73,6 +73,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -107,6 +108,7 @@
 			"type": 8
 		}
 	],
+	"date": 1653362633,
 	"events": [
 		{
 			"event": 2001,
@@ -216,7 +218,11 @@
 	],
 	"id": 1414743113,
 	"md5": "af8c54c648b8c8174bfc22b6b3ea67f4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "waluigi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1618343702,
 	"events": [
 		{
 			"event": 2001,
@@ -186,7 +188,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cd247c2417c343e3079d4727289334be",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "old_delta1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

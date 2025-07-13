@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 932171118,
 	"events": [
 		{
 			"event": 2001,
@@ -274,7 +276,11 @@
 	],
 	"id": 1414743113,
 	"md5": "875a2ecfa660d142a102d61ca9f1bc3c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "urban/terror.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

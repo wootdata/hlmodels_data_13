@@ -108,6 +108,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -142,6 +143,7 @@
 			"type": 8
 		}
 	],
+	"date": 1688538038,
 	"events": [
 		{
 			"event": 2001,
@@ -251,7 +253,11 @@
 	],
 	"id": 1414743113,
 	"md5": "75e44d388a6176da7a1455afc7297ca2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\File Nadia\\Documents\\File Surya\\0 time\\scout-team-fortress-2\\TD",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

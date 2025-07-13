@@ -173,6 +173,7 @@
 			"name": "jumpgear"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -207,6 +208,7 @@
 			"type": 8
 		}
 	],
+	"date": 1598296200,
 	"events": [
 		{
 			"event": 2001,
@@ -316,7 +318,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a5ea7a393ecec9fe5797cef949f619f6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\helmet\\Helmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
