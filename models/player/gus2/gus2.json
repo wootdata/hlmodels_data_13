@@ -190,6 +190,7 @@
 	"md5": "635c2e30fd14054064109bce15d3c0ff",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "construction.mdl",
 	"preview": true,
 	"readme": false,

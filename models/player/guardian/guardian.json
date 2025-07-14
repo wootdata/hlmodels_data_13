@@ -175,6 +175,7 @@
 	"md5": "034e5d2c5e623b5efcb9f4c93254464c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/guardian/guardian.mdl",
 	"preview": true,
 	"readme": false,

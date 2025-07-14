@@ -175,6 +175,7 @@
 	"md5": "01140f976559539324044d7a2e0a68c6",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/dunbine/dunbine.mdl",
 	"preview": false,
 	"readme": false,

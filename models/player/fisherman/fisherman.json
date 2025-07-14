@@ -250,6 +250,7 @@
 	"md5": "e2e6c189ed809cba5cbfb1fedeabe0ed",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/engineer/engineer.mdl",
 	"preview": true,
 	"readme": false,
