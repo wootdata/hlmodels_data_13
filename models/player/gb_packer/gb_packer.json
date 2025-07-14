@@ -183,7 +183,7 @@
 	"modid": 2,
 	"name": "C:\\SIERRA\\Half-Life\\valve\\models\\player\\NecroDroid\\NecroDroid.mdT",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
