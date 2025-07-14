@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}
@@ -20,20 +20,35 @@
 		{
 			"models": [
 				{
-					"name": "cadvre",
-					"polys": 477,
-					"verts": 262
-				}, 
+					"name": "Buz 1",
+					"polys": 3518,
+					"verts": 1835
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
 				{
-					"name": "cadvre",
-					"polys": 477,
-					"verts": 262
+					"name": "Buz 2",
+					"polys": 3362,
+					"verts": 1772
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Buz 3",
+					"polys": 2884,
+					"verts": 1444
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -68,7 +83,7 @@
 			"type": 8
 		}
 	],
-	"date": 1569079450,
+	"date": 1685739062,
 	"events": [
 		{
 			"event": 2001,
@@ -177,10 +192,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "469f1bb9093c4d60e145cd9a116ac00e",
+	"md5": "2bb820b34a5d9e8d5c5a93ab706aa65e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\WINDOWS\\Desktop\\judgedeath\\Valve.mdl",
+	"name": "C:\\Users\\DIAZ\\Documents\\CaraDeGilipollas\\CaraDeGilipollas.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -571,7 +586,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 338928,
+	"size": 909500,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -626,48 +641,36 @@
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 16
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Finger0",
-			"parent": 17
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Finger01",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 L Finger1",
 			"parent": 17
 		}, 
 		{
-			"name": "Bip01 L Finger11",
-			"parent": 21
+			"name": "Bip01 L Finger02",
+			"parent": 18
 		}, 
 		{
-			"name": "Bip01 L Finger12",
-			"parent": 22
+			"name": "Bip01 L Finger1",
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -675,39 +678,35 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Finger0",
-			"parent": 27
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Finger01",
-			"parent": 28
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Finger02",
-			"parent": 29
+			"parent": 26
 		}, 
 		{
 			"name": "Bip01 R Finger1",
-			"parent": 27
+			"parent": 24
 		}, 
 		{
-			"name": "Bip01 R Finger11",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 32
+			"name": "Bip01 Head",
+			"parent": 12
 		}
 	],
 	"skins": 1,
@@ -715,15 +714,21 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "Remap0_117_255_255.bmp",
-			"width": 256
+			"height": 512,
+			"name": "T_Agent_Jonesy_Body_D.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 127,
-			"name": "head.bmp",
-			"width": 132
+			"height": 256,
+			"name": "T_M_MED_Agent_Jonesy_Head_D.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "T_M_MED_Progressive_Jonesy_FaceAcc_D.bmp",
+			"width": 256
 		}
 	],
 	"version": 10

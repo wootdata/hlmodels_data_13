@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}
@@ -20,14 +20,49 @@
 		{
 			"models": [
 				{
-					"name": "cadvre",
-					"polys": 477,
-					"verts": 262
-				}, 
+					"name": "Ra",
+					"polys": 2736,
+					"verts": 1343
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
 				{
-					"name": "cadvre",
-					"polys": 477,
-					"verts": 262
+					"name": "Human Head",
+					"polys": 1334,
+					"verts": 723
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Human Hayr",
+					"polys": 3031,
+					"verts": 1560
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Trenza izq",
+					"polys": 2119,
+					"verts": 1042
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Bun",
+					"polys": 1255,
+					"verts": 660
 				}
 			],
 			"name": "body"
@@ -36,7 +71,7 @@
 	"colorable": true,
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 2,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -44,7 +79,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 3,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -52,7 +87,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 4,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -60,7 +95,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 5,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -68,7 +103,7 @@
 			"type": 8
 		}
 	],
-	"date": 1569079450,
+	"date": 1716923315,
 	"events": [
 		{
 			"event": 2001,
@@ -177,10 +212,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "469f1bb9093c4d60e145cd9a116ac00e",
+	"md5": "1bbc4d20f258ac52e6bbc9ba916536f2",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\WINDOWS\\Desktop\\judgedeath\\Valve.mdl",
+	"name": "RaHumanAppearance.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -571,7 +606,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 338928,
+	"size": 2628224,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -582,132 +617,108 @@
 			"parent": 0
 		}, 
 		{
-			"name": "Bip01 L Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 L Leg1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 R Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 R Leg1",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 6
-		}, 
-		{
 			"name": "Bip01 Spine",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
+			"parent": 2
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 9
+			"parent": 3
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 10
+			"parent": 4
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 11
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 Head",
-			"parent": 12
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Arm",
-			"parent": 12
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 16
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 L Finger0",
-			"parent": 17
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 L Finger01",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
+			"name": "Bip01 L Finger02",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 R Finger0",
-			"parent": 27
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Finger01",
-			"parent": 28
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Finger02",
-			"parent": 29
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Finger1",
-			"parent": 27
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Finger11",
-			"parent": 31
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Finger12",
-			"parent": 32
+			"parent": 26
 		}
 	],
 	"skins": 1,
@@ -715,15 +726,93 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "Remap0_117_255_255.bmp",
-			"width": 256
+			"height": 64,
+			"name": "dm_base.bmp",
+			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 127,
+			"height": 64,
+			"name": "black.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
 			"name": "head.bmp",
-			"width": 132
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "shoulderhope.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "Bolas.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "body.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "dcape.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "Disco.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "Cuernos.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "T_M_MED_FalseVulture_Head_Lashes_D.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "T_M_MED_FalseVulture_Head_D.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Trenza.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "TrenzaDeco.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "T_M_MED_FalseVulture_Hair_D.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Bun.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
