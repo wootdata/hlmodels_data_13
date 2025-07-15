@@ -1,0 +1,37 @@
+Credit:
+
+Model: ハイヌ (Hainu)
+MMD model convert: ちゃーすけ (Charsuke)
+
+SMD model convert: takedeppo.50cal ....(^^;)b yay
+
+
+// MMD File's README ////////////////////////////
+東方ＧＴＡのハイヌさんのモデル‘河城にとり’をＭＭＤに流用したモデルです。
+　
+自分の能力の限界を感じたので配布いたします。見方によっては未完成モデルです。
+モデル製作者などへ不快感を与えるような行為、商用利用は厳禁です。
+　
+　
+モデルに表情などをつけられる方はつけて使ってやってください。再配布も大丈夫。
+
+　
+　
+データ変換・ちゃーすけ
+　
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nitori
+Source Model Hash : 2b4e2f354ec04cf1d4d5fdd3fd359b2e
+Source Model Date : 1465318457 (2016/06/07)
+
+Ported Model Name : nitori_v1sc
+Ported Model Hash : 0cb5da67ee334c5ba217e038c6ba18ba
+Ported Model Date : 1752492097 (2025/07/14)

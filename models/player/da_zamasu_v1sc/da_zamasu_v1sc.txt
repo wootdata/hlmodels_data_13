@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_zamasu
+Source Model Hash : 71b8caf480133db4e366c0705f8e74e4
+Source Model Date : 1475480712 (2016/10/03)
+
+Ported Model Name : da_zamasu_v1sc
+Ported Model Hash : 3273179818903acc5aad0dc6e5e9eea2
+Ported Model Date : 1752491589 (2025/07/14)

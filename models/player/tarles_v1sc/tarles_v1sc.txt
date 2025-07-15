@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tarles
+Source Model Hash : e1516f2bfc1a9f3dc6723a59aa45d59d
+Source Model Date : 1445169234 (2015/10/18)
+
+Ported Model Name : tarles_v1sc
+Ported Model Hash : 30ef8e440bf8f2e5a27cb11de221957a
+Ported Model Date : 1752492361 (2025/07/14)

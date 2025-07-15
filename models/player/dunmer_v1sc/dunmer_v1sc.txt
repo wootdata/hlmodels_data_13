@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dunmer
+Source Model Hash : 83292754731ddae479199735697bbf91
+Source Model Date : 1550431581 (2019/02/17)
+
+Ported Model Name : dunmer_v1sc
+Ported Model Hash : 19d4fe9e62239ba2ebe738e9262ed21a
+Ported Model Date : 1752491625 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uk_gabriel
+Source Model Hash : 999109e51573c0fd3d68d10272ad7b3e
+Source Model Date : 1727965278 (2024/10/03)
+
+Ported Model Name : uk_gabriel_v1sc
+Ported Model Hash : c95b4a518c987b256c93ddbe10de6347
+Ported Model Date : 1752492473 (2025/07/14)

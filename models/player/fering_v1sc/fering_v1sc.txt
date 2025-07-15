@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fering
+Source Model Hash : 364d85cde1f7a911d77be1c223ae42c3
+Source Model Date : 1634833706 (2021/10/21)
+
+Ported Model Name : fering_v1sc
+Ported Model Hash : 685ef77e143ac3c924f86eed1fb3af30
+Ported Model Date : 1752491649 (2025/07/14)

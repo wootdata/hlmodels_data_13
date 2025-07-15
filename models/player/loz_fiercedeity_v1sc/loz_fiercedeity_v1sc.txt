@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : loz_fiercedeity
+Source Model Hash : 872d4ab83ff84026bf9563e91e42a688
+Source Model Date : 1598997258 (2020/09/01)
+
+Ported Model Name : loz_fiercedeity_v1sc
+Ported Model Hash : ca2a6430e5d34b896712bb76e7e57750
+Ported Model Date : 1752491965 (2025/07/14)

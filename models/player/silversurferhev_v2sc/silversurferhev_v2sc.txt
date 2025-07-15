@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : silversurferhev_v2
+Source Model Hash : c11eceb8eec773e173bfe7b02f06b267
+Source Model Date : 1583739192 (2020/03/09)
+
+Ported Model Name : silversurferhev_v2sc
+Ported Model Hash : 2ba47872b74848c7b67b6feb045c41ce
+Ported Model Date : 1752492276 (2025/07/14)

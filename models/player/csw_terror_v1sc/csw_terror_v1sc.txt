@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csw_terror
+Source Model Hash : b693701aa6243617c3478ce1655bb876
+Source Model Date : 1496689626 (2017/06/05)
+
+Ported Model Name : csw_terror_v1sc
+Ported Model Hash : db45f606da2753b0c34e55bedbae65a2
+Ported Model Date : 1752491560 (2025/07/14)

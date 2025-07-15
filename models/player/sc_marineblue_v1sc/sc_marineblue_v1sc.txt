@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sc_marineblue
+Source Model Hash : adcb73785c20827243876fe7cae7f1a2
+Source Model Date : 1269697929 (2010/03/27)
+
+Ported Model Name : sc_marineblue_v1sc
+Ported Model Hash : b3a8b20b32a283a4fa784b8c9458ff00
+Ported Model Date : 1752492254 (2025/07/14)

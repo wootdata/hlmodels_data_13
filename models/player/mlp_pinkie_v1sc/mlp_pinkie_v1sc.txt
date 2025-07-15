@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_pinkie
+Source Model Hash : 9645c368d5adb7686f1251afef7346a9
+Source Model Date : 1491439138 (2017/04/05)
+
+Ported Model Name : mlp_pinkie_v1sc
+Ported Model Hash : efd579f974d50160bb5357af4af801b4
+Ported Model Date : 1752492036 (2025/07/14)

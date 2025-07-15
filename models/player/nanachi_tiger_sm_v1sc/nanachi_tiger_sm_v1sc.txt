@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nanachi_tiger_short
+Source Model Hash : dc1455d7901713d628366b87b0ece8af
+Source Model Date : 1599763474 (2020/09/10)
+
+Ported Model Name : nanachi_tiger_sm_v1sc
+Ported Model Hash : 9b03aa405be321cf737968ce2d779fd4
+Ported Model Date : 1752492067 (2025/07/14)

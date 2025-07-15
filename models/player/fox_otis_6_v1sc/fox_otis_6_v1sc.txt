@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fox_otis_6
+Source Model Hash : ed3f0cea030b2b67bc142feba332576f
+Source Model Date : 1714310179 (2024/04/28)
+
+Ported Model Name : fox_otis_6_v1sc
+Ported Model Hash : f632d025c65d2606f4ed04db15a0fb49
+Ported Model Date : 1752491657 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nva-medic
+Source Model Hash : 39eb44aa4f77f163e41385f66b3f6a57
+Source Model Date : 1265655526 (2010/02/08)
+
+Ported Model Name : nva-medic_v1sc
+Ported Model Hash : b038a266699bec41e3d2098adeaae3d2
+Ported Model Date : 1752492107 (2025/07/14)

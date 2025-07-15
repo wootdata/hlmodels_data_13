@@ -1,0 +1,25 @@
+This model is not to be modified in any way without the creators permission. 
+
+Special thanks to 
+Noxx: 
+For compiling it since I F'ed up the QC, and also for being much better at milkshape than me. 
+
+Tails the Rogue: For finding the texture in UnrealEd (Where the HELL are those things?)
+
+Finally to SAH for all the support you have given me this past year.
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sahchandler_v2
+Source Model Hash : fe1e4bffb129356ca59c5a34ea649f7e
+Source Model Date : 1583378860 (2020/03/04)
+
+Ported Model Name : sahchandler_v2sc
+Ported Model Hash : 2eee66d0e2c1a6540895a405f661f21c
+Ported Model Date : 1752492232 (2025/07/14)

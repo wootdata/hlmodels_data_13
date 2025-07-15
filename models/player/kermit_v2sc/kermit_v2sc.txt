@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kermit_v2
+Source Model Hash : 42f726012d826ee68565b451f3120518
+Source Model Date : 1591757987 (2020/06/09)
+
+Ported Model Name : kermit_v2sc
+Ported Model Hash : 41e6a969a1466f79b579bc8477f0f3b9
+Ported Model Date : 1752491881 (2025/07/14)

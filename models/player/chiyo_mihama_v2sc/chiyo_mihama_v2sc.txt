@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chiyo_mihama_v2
+Source Model Hash : e8283983a632301b9164af53079e245a
+Source Model Date : 1710541445 (2024/03/15)
+
+Ported Model Name : chiyo_mihama_v2sc
+Ported Model Hash : bd1c1e45441f610cfa3000188c9d02c1
+Ported Model Date : 1752491472 (2025/07/14)

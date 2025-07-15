@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : snk_mikasa
+Source Model Hash : 71d74f1f68523dc7d1ee5276d5553972
+Source Model Date : 1455391592 (2016/02/13)
+
+Ported Model Name : snk_mikasa_v1sc
+Ported Model Hash : 4ad86b3838e2337bf5baa41a6893fe91
+Ported Model Date : 1752492286 (2025/07/14)

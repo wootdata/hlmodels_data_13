@@ -1,0 +1,44 @@
+   =======================================
+   I.Am/PCGames Submitted File Information
+   =======================================
+   Please use this form for ALL files sent
+   half-life.pcgame.com  -  tfc.pcgame.com
+   q3a.pcgame.com   -   kingpin.pcgame.com
+   ---------------------------------------
+
+GAME: 
+-----     
+     [x] Half-Life                (http://half-life.pcgame.com)
+     
+     MODELS    (also fill out ADDITIONAL INFO below)
+          [ ] Model (completely new 3d-model, not just a new skin)
+          [x] Skin based on Gordon Model
+
+
+===========================
+ Additional Information
+===========================
+
+--- DEMO, MAP, or MODEL General Information ------
+Date                     : 03.06.99
+Author                   : Andreas Dickmann
+Title                    : Jason of friday th 13th
+BSP/DEM/MDL Filename     : Jason.mdl
+Email address            : momoney@cityweb.de
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jason3
+Source Model Hash : d4ab9f1ada4bbdb2e66c67f11100abe8
+Source Model Date : 1590824719 (2020/05/30)
+
+Ported Model Name : jason3_v1sc
+Ported Model Hash : 3434a78f8174d6fcfef5087a366e8c99
+Ported Model Date : 1752491859 (2025/07/14)

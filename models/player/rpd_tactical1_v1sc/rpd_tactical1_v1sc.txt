@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rpd_tactical1
+Source Model Hash : a9df853cbda1c34eca569d146bd703ed
+Source Model Date : 1269527383 (2010/03/25)
+
+Ported Model Name : rpd_tactical1_v1sc
+Ported Model Hash : 95aad29b365171dfdcbccafd4de57cba
+Ported Model Date : 1752492224 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : screamkiller
+Source Model Hash : 380dd13fdfa727347afa96043ee8094e
+Source Model Date : 1591147154 (2020/06/02)
+
+Ported Model Name : screamkiller_v1sc
+Ported Model Hash : cf201e286104b20e013d81b7c3a80e41
+Ported Model Date : 1752492249 (2025/07/14)

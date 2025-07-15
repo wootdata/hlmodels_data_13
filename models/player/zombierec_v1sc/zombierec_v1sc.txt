@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zombierec
+Source Model Hash : d9bd3e8792afddeef3bf9c2d397814c6
+Source Model Date : 1263332456 (2010/01/12)
+
+Ported Model Name : zombierec_v1sc
+Ported Model Hash : ebaa11e660b0765a63d3fea0ef84718a
+Ported Model Date : 1752492532 (2025/07/14)

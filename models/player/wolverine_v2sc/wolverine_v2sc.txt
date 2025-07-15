@@ -1,0 +1,43 @@
+
+wolverine_README.txt			04:06 01OCT99
+
+This model is based on "Wolverine", from Marvel Comics. He's always been one of my favorite comic 
+characters, and I feel he'll be a real crowd pleaser.
+
+Created with Chumbalum Soft's Milkshape 3D v1.0c
+#vertices:     387
+#triangles:    790
+#groups:      5
+#bones:       22
+#materials:   5
+sgroups:       1
+
+WOLVERINE and X-Men are trademarks of Marvel Comics
+
+To use this model for Half-Life simply create a new folder named 'wolverine' (NO QUOTES!) in: 
+...\Half-Life\valve\models\player\...
+Un-zip the wolverine.mdl and wolverine.bmp into the new wolverine folder
+The X-Men symbol (x-men1a.bmp) should be cut, then pasted into:
+...\Half-Life\logos
+
+Feel free to distribute this .zip along with the README.txt
+Have Fun!
+
+Mann Slaughter
+"Let's DO this!"
+mann_slaughter@usa.net
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wolverine_v2
+Source Model Hash : 4880f8f6d49dda6d322945995ed2880e
+Source Model Date : 1591342165 (2020/06/05)
+
+Ported Model Name : wolverine_v2sc
+Ported Model Hash : c8190371ab5015a3a7ab97a14e4780e9
+Ported Model Date : 1752492511 (2025/07/14)

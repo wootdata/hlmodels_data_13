@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : urban_cterrorist
+Source Model Hash : 63800419a51c0faccd1ef31bc2736b32
+Source Model Date : 1264166610 (2010/01/22)
+
+Ported Model Name : urban_cterrorist_v1sc
+Ported Model Hash : b73daad255af35f2b454e9eedde4ceaf
+Ported Model Date : 1752492481 (2025/07/14)

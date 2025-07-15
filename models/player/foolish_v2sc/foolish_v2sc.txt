@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : foolish_v2
+Source Model Hash : fc8031a6b0357f95bb1876cddaa0d7b3
+Source Model Date : 1583874200 (2020/03/10)
+
+Ported Model Name : foolish_v2sc
+Ported Model Hash : 5b551356f879dc35b75003089da2931e
+Ported Model Date : 1752491655 (2025/07/14)

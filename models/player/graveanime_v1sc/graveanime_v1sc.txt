@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : graveanime
+Source Model Hash : aef02c7f731ac1d9cc517dd02e344947
+Source Model Date : 1237215354 (2009/03/16)
+
+Ported Model Name : graveanime_v1sc
+Ported Model Hash : a44163ad4ce78027f2b2623336a99b5f
+Ported Model Date : 1752491737 (2025/07/14)

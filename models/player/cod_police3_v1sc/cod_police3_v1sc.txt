@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod_police3
+Source Model Hash : 0694b861a8b05ddd6e7b9dadc3cf6011
+Source Model Date : 1477251694 (2016/10/23)
+
+Ported Model Name : cod_police3_v1sc
+Ported Model Hash : 0128c3d84ab9aedd5f3f26ded2875678
+Ported Model Date : 1752491497 (2025/07/14)

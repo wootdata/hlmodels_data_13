@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : longjump
+Source Model Hash : a559982fc9e578c026623a50165d73f8
+Source Model Date : 1637524025 (2021/11/21)
+
+Ported Model Name : longjump_v1sc
+Ported Model Hash : f56d4a526fc5125f6d8afc19e263bb3c
+Ported Model Date : 1752491961 (2025/07/14)

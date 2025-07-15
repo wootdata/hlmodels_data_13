@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : taskforcecar
+Source Model Hash : 1ae29529fa4604a187baaa61a8b91426
+Source Model Date : 1192356018 (2007/10/14)
+
+Ported Model Name : taskforcecar_v1sc
+Ported Model Hash : 04b7da758fba54c313fab331a89dbc69
+Ported Model Date : 1752492361 (2025/07/14)

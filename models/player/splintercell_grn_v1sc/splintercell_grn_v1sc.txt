@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : splintercell_green
+Source Model Hash : d12f83a0234e6bda49fda6421e359321
+Source Model Date : 1497406941 (2017/06/13)
+
+Ported Model Name : splintercell_grn_v1sc
+Ported Model Hash : 9264335c77226848e55799c4e3b48363
+Ported Model Date : 1752492310 (2025/07/14)

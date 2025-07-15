@@ -1,0 +1,22 @@
+Name of model: Opfor Tower
+Model filename:tower
+Model Type: Player (SC3 animated) 
+Drawn Polys: 2,890
+Original Mesh: One Eyed Newt
+Player Conversion: R@p7oR
+SC3 Animations: R@p7oR
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tower
+Source Model Hash : e5b6d8ed76ea0a40840dbc660eb5cad5
+Source Model Date : 1454423206 (2016/02/02)
+
+Ported Model Name : tower_v1sc
+Ported Model Hash : bfcacd42490a5a456439c910611c3b7e
+Ported Model Date : 1752492453 (2025/07/14)

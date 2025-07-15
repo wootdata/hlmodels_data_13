@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mikumo
+Source Model Hash : 0ae914f7fafab63f09a00933990e694a
+Source Model Date : 1751031766 (2025/06/27)
+
+Ported Model Name : mikumo_v1sc
+Ported Model Hash : 00c7424f9736e021b9b15426e28b1046
+Ported Model Date : 1752492021 (2025/07/14)

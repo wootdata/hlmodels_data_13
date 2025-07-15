@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : metalsonic
+Source Model Hash : ed6deeda03f660591a1c6d80947332c1
+Source Model Date : 1266243596 (2010/02/15)
+
+Ported Model Name : metalsonic_v1sc
+Ported Model Hash : 7dd04a755ecc859f551d3f18e9d7271a
+Ported Model Date : 1752492005 (2025/07/14)

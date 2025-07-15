@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : niobe
+Source Model Hash : 5d881e98ef42ea9ab2890623d0ccf447
+Source Model Date : 1265638025 (2010/02/08)
+
+Ported Model Name : niobe_v1sc
+Ported Model Hash : ee1d676ce9ddc7cb5eb6ea88142eaff5
+Ported Model Date : 1752492096 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : krause
+Source Model Hash : 907152dff3a699c1c92977b2fe810b1d
+Source Model Date : 1445887084 (2015/10/26)
+
+Ported Model Name : krause_v1sc
+Ported Model Hash : 953e6bb69eab974133c2997f9bf52258
+Ported Model Date : 1752491910 (2025/07/14)

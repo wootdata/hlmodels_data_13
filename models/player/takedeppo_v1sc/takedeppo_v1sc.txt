@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : takedeppo
+Source Model Hash : 3b0fa5bd6e6a202ab061c129898c9417
+Source Model Date : 1254394562 (2009/10/01)
+
+Ported Model Name : takedeppo_v1sc
+Ported Model Hash : ddd01e34227a965074847e6e2b493111
+Ported Model Date : 1752492359 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : morpheus2
+Source Model Hash : bf200e2b81334e9dea62a38d79ef96ad
+Source Model Date : 1266511480 (2010/02/18)
+
+Ported Model Name : morpheus2_v1sc
+Ported Model Hash : b4e5bacbcec88001a072dd1b6ee08243
+Ported Model Date : 1752492042 (2025/07/14)

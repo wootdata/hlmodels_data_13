@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : peachssbu
+Source Model Hash : 645cd1a7f8a82abe9502c3b69b2423a2
+Source Model Date : 1681842856 (2023/04/18)
+
+Ported Model Name : peachssbu_v1sc
+Ported Model Hash : 264f7783aab6b6056f0976857f5d1106
+Ported Model Date : 1752492151 (2025/07/14)

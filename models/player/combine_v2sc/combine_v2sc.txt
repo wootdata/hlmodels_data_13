@@ -1,0 +1,17 @@
+Combine by SnowWar team
+convert to svenco-op Nightwolf63
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : combine_v2
+Source Model Hash : 65652798bddba5f1f3c7bcb3d1b6ca9b
+Source Model Date : 1583821678 (2020/03/09)
+
+Ported Model Name : combine_v2sc
+Ported Model Hash : a30b75d3978371278d3ddde47bee7ca1
+Ported Model Date : 1752491519 (2025/07/14)

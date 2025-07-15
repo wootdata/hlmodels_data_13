@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_zecora
+Source Model Hash : 64729ef361e0f58573c57154295b2502
+Source Model Date : 1491497330 (2017/04/06)
+
+Ported Model Name : mlp_zecora_v1sc
+Ported Model Hash : f7fc29b073fe9c0110db0b3acfd4a3c3
+Ported Model Date : 1752492036 (2025/07/14)

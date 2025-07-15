@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : l4d2_nick
+Source Model Hash : 153a6dec6b469698e5f993d7544f1122
+Source Model Date : 1284946693 (2010/09/19)
+
+Ported Model Name : l4d2_nick_v1sc
+Ported Model Hash : a2790ec0edbf9182dbdee6a80d523062
+Ported Model Date : 1752491934 (2025/07/14)

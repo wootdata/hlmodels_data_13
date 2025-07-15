@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : foxbr
+Source Model Hash : 9a2f2da17820567ed22a560cc3fe257f
+Source Model Date : 1296280896 (2011/01/28)
+
+Ported Model Name : foxbr_v1sc
+Ported Model Hash : 766832c65504cccc418d6f2b4e2a4f4b
+Ported Model Date : 1752491655 (2025/07/14)

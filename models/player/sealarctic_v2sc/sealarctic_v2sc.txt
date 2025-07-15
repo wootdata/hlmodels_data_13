@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sealarctic_v2
+Source Model Hash : e437433d088d7253e4e06751bc36f32c
+Source Model Date : 1583907031 (2020/03/10)
+
+Ported Model Name : sealarctic_v2sc
+Ported Model Hash : cb4444d1878ec7b09f40d7577b156cf4
+Ported Model Date : 1752492256 (2025/07/14)

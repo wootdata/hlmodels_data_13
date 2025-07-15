@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : priest
+Source Model Hash : 32c3bd03063cddfb930b10783297f986
+Source Model Date : 1268071476 (2010/03/08)
+
+Ported Model Name : priest_v1sc
+Ported Model Hash : 9154569fa7491d47eb63ee0e3430ec5c
+Ported Model Date : 1752492168 (2025/07/14)

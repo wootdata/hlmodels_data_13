@@ -1,0 +1,33 @@
+------------------------------------------------------
+Wryn (from Bleed)
+for Sven Co-op 5.0 player model
+
+
+WE LOVE YOU !
+
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI, EDGE
+Website: http://www.geocities.jp/tepodonsc35/
+
+03-11-2016 updated ver1.2 (Fixed Model, Animation)
+02-10-2016 updated ver1.1 (Fixed Model, Animation)
+22-09-2016 completed
+------------------------------------------------------
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wryn
+Source Model Hash : e211d7e33b05708e8c7540a00e7543a4
+Source Model Date : 1478176504 (2016/11/03)
+
+Ported Model Name : wryn_v1sc
+Ported Model Hash : 440b1d0d3cdf42ea68179ff78f6d8396
+Ported Model Date : 1752492512 (2025/07/14)

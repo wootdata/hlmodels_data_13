@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_outbreak_alyssa
+Source Model Hash : b2c378c2ea578167e2394d28a0db8daf
+Source Model Date : 1236229332 (2009/03/04)
+
+Ported Model Name : reo_alyssa_v1sc
+Ported Model Hash : dc08d7b883530251d5f0cb743c928d35
+Ported Model Date : 1752492209 (2025/07/14)

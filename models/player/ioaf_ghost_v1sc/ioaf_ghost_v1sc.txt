@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ioaf_ghost
+Source Model Hash : 96e9ea77e99ff38a3fd8928f52625216
+Source Model Date : 1458847900 (2016/03/24)
+
+Ported Model Name : ioaf_ghost_v1sc
+Ported Model Hash : 989613d4c746467cb5131cec54829bf4
+Ported Model Date : 1752491847 (2025/07/14)

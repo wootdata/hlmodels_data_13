@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mio_honda_step_v2
+Source Model Hash : 78611eeae8f10ac754e7b222a4c05f9f
+Source Model Date : 1702916309 (2023/12/18)
+
+Ported Model Name : mio_honda_step_v2sc
+Ported Model Hash : d9bb277ac8a841fca79f36b5efb1ff0f
+Ported Model Date : 1752492027 (2025/07/14)

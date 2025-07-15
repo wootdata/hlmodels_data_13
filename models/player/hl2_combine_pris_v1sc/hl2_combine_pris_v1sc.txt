@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hl2_combine_prison
+Source Model Hash : bbb14e9efd90bfb8241a975088de3c76
+Source Model Date : 1583125351 (2020/03/01)
+
+Ported Model Name : hl2_combine_pris_v1sc
+Ported Model Hash : 43860494699e256eaaf45bb252b8b331
+Ported Model Date : 1752491802 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bt_ruarmy_1_fs
+Source Model Hash : 54ebae73e3d66a6af5a9aa84d94603ef
+Source Model Date : 1674482385 (2023/01/23)
+
+Ported Model Name : bt_ruarmy_1_fs_v1sc
+Ported Model Hash : e55f3520f299f6ed6f2f9de6cc55b81c
+Ported Model Date : 1752491451 (2025/07/14)

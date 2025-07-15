@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : morass_hood
+Source Model Hash : 83ebd4edca4e55792806f7e533d19a03
+Source Model Date : 1497290205 (2017/06/12)
+
+Ported Model Name : morass_hood_v1sc
+Ported Model Hash : 19be80ca8fb7c3a107c95ee6df7fed11
+Ported Model Date : 1752492041 (2025/07/14)

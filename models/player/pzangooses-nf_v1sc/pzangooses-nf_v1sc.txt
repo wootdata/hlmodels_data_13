@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pzangooses-nf
+Source Model Hash : 70e33f714707f6931f88a4b4dc55b51a
+Source Model Date : 1627206530 (2021/07/25)
+
+Ported Model Name : pzangooses-nf_v1sc
+Ported Model Hash : fcb81bbf674aab457234bc70b49081f4
+Ported Model Date : 1752492175 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : russianboss_cscz
+Source Model Hash : 003e0a22deb6d5de622716cfbc2e961a
+Source Model Date : 1269246856 (2010/03/22)
+
+Ported Model Name : russianboss_cscz_v1sc
+Ported Model Hash : 24f39eff98d21840cd569406bc6c0459
+Ported Model Date : 1752492225 (2025/07/14)

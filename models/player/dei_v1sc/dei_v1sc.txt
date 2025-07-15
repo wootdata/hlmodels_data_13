@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dei
+Source Model Hash : 4364e3bca10f5d1b2638d3a56a2657a3
+Source Model Date : 1239124504 (2009/04/07)
+
+Ported Model Name : dei_v1sc
+Ported Model Hash : 5b0d18946abcbeb36277dfacbcc11075
+Ported Model Date : 1752491593 (2025/07/14)

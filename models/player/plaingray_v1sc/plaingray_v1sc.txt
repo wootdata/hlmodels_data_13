@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : plaingray
+Source Model Hash : f440ca5829a1c19dc0b33ffe370a8612
+Source Model Date : 1041667164 (2003/01/03)
+
+Ported Model Name : plaingray_v1sc
+Ported Model Hash : e3634c63f5870b6da1eca7c4b593681e
+Ported Model Date : 1752492159 (2025/07/14)

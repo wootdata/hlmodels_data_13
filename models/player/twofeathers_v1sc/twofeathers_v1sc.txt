@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : twofeathers
+Source Model Hash : 87448e338f3dc736c3186f31cf55170b
+Source Model Date : 1267715927 (2010/03/04)
+
+Ported Model Name : twofeathers_v1sc
+Ported Model Hash : 3c8225ad06d8abed63e7b9cfd21b9e2e
+Ported Model Date : 1752492465 (2025/07/14)

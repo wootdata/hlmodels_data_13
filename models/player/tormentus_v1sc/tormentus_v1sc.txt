@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tormentus
+Source Model Hash : ecab6fe6b430a969ae345f378e362e22
+Source Model Date : 1267637598 (2010/03/03)
+
+Ported Model Name : tormentus_v1sc
+Ported Model Hash : 912ae9d69916b27350e11409c365097f
+Ported Model Date : 1752492432 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_diversant4
+Source Model Hash : 185af29340e2267dd063445145aebb1f
+Source Model Date : 1265772280 (2010/02/09)
+
+Ported Model Name : para_diversant4_v1sc
+Ported Model Hash : 9c8bcd1be28b58547feb3ba625e91286
+Ported Model Date : 1752492145 (2025/07/14)

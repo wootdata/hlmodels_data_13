@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shii
+Source Model Hash : 2864ce703cd8a777dac26f433c2003d5
+Source Model Date : 1238861362 (2009/04/04)
+
+Ported Model Name : shii_v1sc
+Ported Model Hash : fd4a96ee52e7815b37973d985b17cc90
+Ported Model Date : 1752492268 (2025/07/14)

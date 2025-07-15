@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tomzao
+Source Model Hash : 2d0dbbaea960dd00387da0d6727794a8
+Source Model Date : 1267635585 (2010/03/03)
+
+Ported Model Name : tomzao_v1sc
+Ported Model Hash : 50bb0ff0a6ff834865e94b794ae6e96b
+Ported Model Date : 1752492429 (2025/07/14)

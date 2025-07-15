@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : marmor_v2
+Source Model Hash : 6a04816fd90b3139b968ed168bcf7db9
+Source Model Date : 1583478167 (2020/03/05)
+
+Ported Model Name : marmor_v2sc
+Ported Model Hash : 7b96049010cbd88c11fb6d22ae8996cf
+Ported Model Date : 1752491989 (2025/07/14)

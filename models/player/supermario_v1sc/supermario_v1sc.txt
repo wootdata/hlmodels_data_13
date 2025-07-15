@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : supermario
+Source Model Hash : 4d644f861e4116d0069fdf3ad04fdbbd
+Source Model Date : 1269965566 (2010/03/30)
+
+Ported Model Name : supermario_v1sc
+Ported Model Hash : c075504bb2ab58ef258bf9d69106c5cb
+Ported Model Date : 1752492351 (2025/07/14)

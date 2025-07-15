@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gs_gatiito_waffen
+Source Model Hash : 70801eaca0aee3988cff5da35965d2ad
+Source Model Date : 1461689470 (2016/04/26)
+
+Ported Model Name : gs_gatiito_waffen_v1sc
+Ported Model Hash : e24169b76b2f3b2dfccf0bed5d061ddf
+Ported Model Date : 1752491747 (2025/07/14)

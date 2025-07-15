@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nikolai_apanaczenko
+Source Model Hash : 04cd23823d4b3e3858483f5a22575a3a
+Source Model Date : 1264580964 (2010/01/27)
+
+Ported Model Name : nikolai_a_v1sc
+Ported Model Hash : fa9d51b0b4638848cb4bdffdcba24504
+Ported Model Date : 1752492095 (2025/07/14)

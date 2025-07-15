@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_barbara_v2
+Source Model Hash : 829d40ae65b352f4b09d159af9674a1c
+Source Model Date : 1700164906 (2023/11/16)
+
+Ported Model Name : gi_barbara_v2sc
+Ported Model Hash : f720e802f174da1c14f3a487d2029742
+Ported Model Date : 1752491705 (2025/07/14)

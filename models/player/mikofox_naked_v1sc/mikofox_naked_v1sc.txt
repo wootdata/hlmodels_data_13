@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mikofox_naked
+Source Model Hash : 54228884213b4fc2d542235934f7ae33
+Source Model Date : 1375634796 (2013/08/04)
+
+Ported Model Name : mikofox_naked_v1sc
+Ported Model Hash : b3ced74a79155091fd3453a731a01fcc
+Ported Model Date : 1752492017 (2025/07/14)

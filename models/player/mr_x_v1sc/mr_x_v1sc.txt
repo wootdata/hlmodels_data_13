@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mr_x
+Source Model Hash : 4ce7da773704228a313fbdce018fa195
+Source Model Date : 1654719591 (2022/06/08)
+
+Ported Model Name : mr_x_v1sc
+Ported Model Hash : d3124208bc93872af5648a8b923456fc
+Ported Model Date : 1752492047 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : halo_perez
+Source Model Hash : eb4710fb0035c0f0f175659dea5db49a
+Source Model Date : 1236700360 (2009/03/10)
+
+Ported Model Name : halo_perez_v1sc
+Ported Model Hash : b58c67bf5601ab7ccddb28732555742e
+Ported Model Date : 1752491766 (2025/07/14)

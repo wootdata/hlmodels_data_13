@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : qwtf_soldier_red
+Source Model Hash : 117d691258983639c980cf0e7399fdd3
+Source Model Date : 1637598717 (2021/11/22)
+
+Ported Model Name : qwtf_soldier_red_v1sc
+Ported Model Hash : c240941cd5b155f69998c8c439653b2b
+Ported Model Date : 1752492183 (2025/07/14)

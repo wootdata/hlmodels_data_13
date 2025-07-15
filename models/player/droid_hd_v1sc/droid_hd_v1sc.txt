@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : droid_hd
+Source Model Hash : 39cd1c749632d517bd7798d47b2b0550
+Source Model Date : 1490129660 (2017/03/21)
+
+Ported Model Name : droid_hd_v1sc
+Ported Model Hash : 0472fa2adac077b55c86c866b34a1c4d
+Ported Model Date : 1752491623 (2025/07/14)

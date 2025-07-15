@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : esf_frieza2
+Source Model Hash : 30f7d1db1ac0bea68b498f2cd57c9dd7
+Source Model Date : 1426949132 (2015/03/21)
+
+Ported Model Name : esf_frieza2_v1sc
+Ported Model Hash : 3fbefe97b53abd22454974c0dc946a7f
+Ported Model Date : 1752491637 (2025/07/14)

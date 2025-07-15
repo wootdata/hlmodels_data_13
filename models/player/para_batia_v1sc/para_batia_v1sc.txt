@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_batia
+Source Model Hash : 2bd7aa03540a2c41c48a23cc7dcb3e67
+Source Model Date : 1265771168 (2010/02/09)
+
+Ported Model Name : para_batia_v1sc
+Ported Model Hash : b32b82e4de223628f38334f69f98a753
+Ported Model Date : 1752492144 (2025/07/14)

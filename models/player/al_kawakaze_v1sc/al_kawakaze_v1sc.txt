@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : al_kawakaze
+Source Model Hash : 6ffa2de2b468f17f2f3c2307088a78ad
+Source Model Date : 1679409137 (2023/03/21)
+
+Ported Model Name : al_kawakaze_v1sc
+Ported Model Hash : 03d5aa9d9b6d8b5febc8b63fb782209d
+Ported Model Date : 1752491357 (2025/07/14)

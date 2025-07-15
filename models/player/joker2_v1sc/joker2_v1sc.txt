@@ -1,0 +1,36 @@
+The Joker Model skin by V-bros Inc.
+Vnitro@worldnet.att.net
+
+Used G-man to change the suit color and face. This is our 2nd model
+with more to come.  we're having fun doing em too!  ;-)
+
+Skin info:
+
+chrome: no 
+Hue shift: yes
+animation: unmodified Valve anims
+
+Re-mapped skin using Mdlviewer v2.1.0402, and re-colored it in Adobe PhotoShop 5.
+
+To use, extract the .zip file (Joker.bmp and Joker.mdl) into valve/models/player/Joker/
+
+Check out RADIATION BURN @ http://www.planethalflife.com/burn for skin reviews!
+
+More cool and new character skins are on the way! 
+
+Thanks, Bob V. and Frank V.    
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : joker2
+Source Model Hash : 97d1c863a64c38b9d60ebe19076cb653
+Source Model Date : 1590872995 (2020/05/30)
+
+Ported Model Name : joker2_v1sc
+Ported Model Hash : 3d87cf6426e0ab6fde2b1384668f4f8a
+Ported Model Date : 1752491865 (2025/07/14)

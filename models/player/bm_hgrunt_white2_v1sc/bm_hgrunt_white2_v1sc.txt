@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bm_hgrunt_white2
+Source Model Hash : 60819d5ef01c9dea4f9d06b5f63bb834
+Source Model Date : 1522912528 (2018/04/05)
+
+Ported Model Name : bm_hgrunt_white2_v1sc
+Ported Model Hash : d9b22f1c35a502e5401a48e71b7e762f
+Ported Model Date : 1752491441 (2025/07/14)

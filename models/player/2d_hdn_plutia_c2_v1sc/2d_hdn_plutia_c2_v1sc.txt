@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_hdn_plutia_c2
+Source Model Hash : 99558a500fcdf8b2efe14c52ed346196
+Source Model Date : 1553686636 (2019/03/27)
+
+Ported Model Name : 2d_hdn_plutia_c2_v1sc
+Ported Model Hash : a9dd544960c599405fc7d60f30d21481
+Ported Model Date : 1752491311 (2025/07/14)

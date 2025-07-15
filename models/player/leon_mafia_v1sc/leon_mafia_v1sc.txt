@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : leon_mafia
+Source Model Hash : 50a65edda3ffcfa171d5dabe7f7efc4a
+Source Model Date : 1659922404 (2022/08/07)
+
+Ported Model Name : leon_mafia_v1sc
+Ported Model Hash : 6f612a44d4554be6a8a7f81577a3de28
+Ported Model Date : 1752491948 (2025/07/14)

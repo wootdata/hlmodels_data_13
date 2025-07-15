@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : armenian_mafia
+Source Model Hash : 3db913dd91909e4281f135f89059d6c1
+Source Model Date : 1424377096 (2015/02/19)
+
+Ported Model Name : armenian_mafia_v1sc
+Ported Model Hash : 74660df1652e143c0d32af0389b4a1fb
+Ported Model Date : 1752491376 (2025/07/14)

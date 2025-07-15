@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yahoosuit
+Source Model Hash : b69f44bbc4cf5ed1db74e7d3ad21223a
+Source Model Date : 1567290538 (2019/08/31)
+
+Ported Model Name : yahoosuit_v1sc
+Ported Model Hash : dc289ec76b52f5b9242b3d97a3896848
+Ported Model Date : 1752492519 (2025/07/14)

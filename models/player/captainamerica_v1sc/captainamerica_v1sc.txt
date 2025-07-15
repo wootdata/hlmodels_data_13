@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : captainamerica
+Source Model Hash : 05e4408dcc8dd53f320fb08a513e53e0
+Source Model Date : 1268229946 (2010/03/10)
+
+Ported Model Name : captainamerica_v1sc
+Ported Model Hash : 158baa1a6c3e36aab7dad64addf13f2e
+Ported Model Date : 1752491459 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zolene
+Source Model Hash : d4af0cd392701a7e98a2e1ad198c9aa6
+Source Model Date : 1264536366 (2010/01/26)
+
+Ported Model Name : zolene_v1sc
+Ported Model Hash : e9fc86fd5be7262aa7e17cdc22623296
+Ported Model Date : 1752492530 (2025/07/14)

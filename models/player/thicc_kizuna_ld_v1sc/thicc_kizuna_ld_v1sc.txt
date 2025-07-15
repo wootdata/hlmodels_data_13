@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thicc_kizuna_ld
+Source Model Hash : 8657ada4abc7a2d38d51485ec6a3b9a4
+Source Model Date : 1702240349 (2023/12/10)
+
+Ported Model Name : thicc_kizuna_ld_v1sc
+Ported Model Hash : bccbaac748b59dc34f3f3f57c84b4189
+Ported Model Date : 1752492414 (2025/07/14)

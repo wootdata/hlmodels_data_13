@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : old_delta5
+Source Model Hash : c3b18f6c64d73ca530cf72303ed70c4d
+Source Model Date : 1230659700 (2008/12/30)
+
+Ported Model Name : old_delta5_v1sc
+Ported Model Hash : 783c9c911599a1e095112a518710e0d0
+Ported Model Date : 1752492116 (2025/07/14)

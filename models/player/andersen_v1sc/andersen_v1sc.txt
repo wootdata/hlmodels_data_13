@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : andersen
+Source Model Hash : 263299847bd06258723970617243c153
+Source Model Date : 1352657176 (2012/11/11)
+
+Ported Model Name : andersen_v1sc
+Ported Model Hash : 86de7e9b304ef2eec2a50d06060c378e
+Ported Model Date : 1752491360 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : masked_ninja_v2
+Source Model Hash : 6be69665de8b8d7d2726324a3bd85b10
+Source Model Date : 1583479403 (2020/03/05)
+
+Ported Model Name : masked_ninja_v2sc
+Ported Model Hash : 59ba171f5d2c6f2ba67026a572b02acc
+Ported Model Date : 1752491990 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dawae
+Source Model Hash : 90f05912b1bb18edd962f53d075503ea
+Source Model Date : 1533225151 (2018/08/02)
+
+Ported Model Name : dawae_v1sc
+Ported Model Hash : 4fe3c19b321bade4392229a598ad00aa
+Ported Model Date : 1752491583 (2025/07/14)

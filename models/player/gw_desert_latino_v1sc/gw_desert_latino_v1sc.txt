@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gw_desert_latino
+Source Model Hash : 63cbfb621080c0ea18e076e751c411ec
+Source Model Date : 1493327309 (2017/04/27)
+
+Ported Model Name : gw_desert_latino_v1sc
+Ported Model Hash : 9f69d1b9528e2265438137ddae9ecf9e
+Ported Model Date : 1752491758 (2025/07/14)

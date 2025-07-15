@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : barneytux
+Source Model Hash : e061679b30e9cae001b21c2ae0045941
+Source Model Date : 1267792049 (2010/03/05)
+
+Ported Model Name : barneytux_v1sc
+Ported Model Hash : b72b284f608baa23c785cfd27827a491
+Ported Model Date : 1752491402 (2025/07/14)
