@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : arue_teto
+Source Model Hash : 0ba4323de07028279db385d3609a6acf
+Source Model Date : 1753147244 (2025/07/21)
+
+Ported Model Name : arue_teto_v1sc
+Ported Model Hash : ccfd1f530971a576e34094358c95ad6e
+Ported Model Date : 1753306561 (2025/07/23)
