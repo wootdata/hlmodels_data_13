@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 40k_salamanders
+Source Model Hash : 48ee0061dfb27e533353ed8003e6f19e
+Source Model Date : 1740306442 (2025/02/23)
+
+Ported Model Name : 40k_salamanders_v1sc
+Ported Model Hash : 153f8cfac1bffed6c2fd458c2412dba2
+Ported Model Date : 1758225722 (2025/09/18)
