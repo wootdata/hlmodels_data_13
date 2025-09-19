@@ -1,0 +1,11 @@
+-----Arion Deathmatch Model-----
+
+Put the files in a directory called "Arion" in your half-life\valve\models\player folder!
+
+-If you have any comments, just mail them to:
+ Arion@softhome.net
+
+
+
+
+Jan Zinke aka Arion

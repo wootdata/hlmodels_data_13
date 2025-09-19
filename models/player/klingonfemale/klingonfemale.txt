@@ -1,0 +1,11 @@
+                    KlingonFemale
+
+A Female Klingon skin, made for the House of Man'Tok
+   
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\player\KlingonFemale folder
+
+
+         FYA    MARQUIS for skins (m.haly@cwcom.net) 3/12/99
+
+                   http://www.hlskins.free-online.co.uk/

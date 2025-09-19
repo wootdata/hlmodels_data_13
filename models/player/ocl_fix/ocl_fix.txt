@@ -1,0 +1,13 @@
+#############################################
+#     Ordre des Corsaires de la Liberte     #
+#         http://www.corsaires.net          #
+#                                           #
+#                ocl_fix.mdl                #
+#                                           #
+#          skin by [OCL]-Cuchulainn         #
+#          cuchulainn@corsaires.net         #
+#############################################
+
+This skin is based upon the teletuby.mdl funny model.
+Its the second version of [OCL] Fix personnal skin.
+This was achieved on 13/08/99, have fun with it !
