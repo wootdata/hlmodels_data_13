@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : holo_fuwawa_lowpoly
+Source Model Hash : 72dc2319dcbd8d8b874b6e6b2ea4c9b0
+Source Model Date : 1734435746 (2024/12/17)
+
+Ported Model Name : holo_fuwawa_lp_v1sc
+Ported Model Hash : a700ae111eec38b2e194d9cda1adc165
+Ported Model Date : 1780823026 (2026/06/07)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hecu_recon2
+Source Model Hash : c90a2e31838a7ee372212c12fb72eff4
+Source Model Date : 1775305535 (2026/04/04)
+
+Ported Model Name : hecu_recon2_v1sc
+Ported Model Hash : 848f802e07823f872e1414b0213de0da
+Ported Model Date : 1780823025 (2026/06/07)
